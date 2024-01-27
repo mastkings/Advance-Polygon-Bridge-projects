@@ -105,9 +105,6 @@ If you encounter any issues during the deployment or transfer process, please en
 
 This project is licensed under the [MIT License](LICENSE).
 
-Feel free to modify and adapt
-
- the code to suit your specific requirements.
 
 
 
